@@ -1,0 +1,7 @@
+${Color.YELLOW} _______  ${Color.BLUE} _______   _______   __   __   ___  ${Color.YELLOW} _______
+${Color.YELLOW}|   _   | ${Color.BLUE}|  _____| |   ____| |  |_|  | |   | ${Color.YELLOW}|   _   |
+${Color.YELLOW}|  |_|  | ${Color.BLUE}| |_____  |  |____  |     __| |   | ${Color.YELLOW}|  |_|  |
+${Color.YELLOW}|   _   | ${Color.BLUE}|_____  | |   ____| |    |__  |   | ${Color.YELLOW}|   _   |
+${Color.YELLOW}|  | |  | ${Color.BLUE} _____| | |  |____  |   _   | |   | ${Color.YELLOW}|  | |  |
+${Color.YELLOW}|__| |__| ${Color.BLUE}|_______| |_______| |__| |__| |___| ${Color.YELLOW}|__| |__|
+${Color.GREEN}:: Asekia ::                             ${Color.CYAN}1.2.3 SNAPSHOT
